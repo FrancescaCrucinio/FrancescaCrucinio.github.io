@@ -1,5 +1,3 @@
-# Upcoming
-
 ---
 title: "Optimal Scaling for a Wide Class of Proximal MALA Algorithms"
 collection: talks
