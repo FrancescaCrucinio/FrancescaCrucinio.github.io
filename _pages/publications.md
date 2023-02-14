@@ -11,14 +11,22 @@ author_profile: true
 
 ### Conference Proceedings
 
+* [**Speeding up algebraic-based sampling via permutations**](https://link.springer.com/chapter/10.1007/978-3-030-57306-5_14)\
+    Crucinio F.R., Fontana R.\
+    In: La Rocca M., Liseo B., Salmaso L. (eds) Nonparametric Statistics. ISNPS 2018. Springer Proceedings in Mathematics & Statistics 339(145-155), 2020
+* [**Comparison of conditional tests on Poisson data**](https://core.ac.uk/download/pdf/84253504.pdf)\
+    Fontana R., Crucinio F.R.\
+    Statistics and Data Science: new challenges, new generations. SIS 2017 Proceedings, Firenze University Press, 2017
+
+
 ### Books
 
-* [**Elementi di Statistica per l’Ingegneria e l’Architettura. Teoria ed esercizi svolti**](https://bookshop.editrice-esculapio.com/products/pellerey-fontana-bonino-crucinio-elementi-di-statistica-per-lingegneria-e-larchitettura)
-    Bonino D., Crucinio F.R., Fontana R., Pellerey F., \textit{ Società Editrice Esculapio, 2017
+* [**Elementi di Statistica per l’Ingegneria e l’Architettura. Teoria ed esercizi svolti**](https://bookshop.editrice-esculapio.com/products/pellerey-fontana-bonino-crucinio-elementi-di-statistica-per-lingegneria-e-larchitettura)\
+    Bonino D., Crucinio F.R., Fontana R., Pellerey F., Società Editrice Esculapio, 2017
 
 ### Other
 
-* [**Some interacting particle methods with non-standard interactions**](http://wrap.warwick.ac.uk/161984/)
+* [**Some interacting particle methods with non-standard interactions**](http://wrap.warwick.ac.uk/161984/)\
     Crucinio F.R., PhD Thesis, University of Warwick, 2021
-* [**Microthesis: A Novel Algorithm for Solving Fredholm Integral Equations**](https://www.lms.ac.uk/sites/lms.ac.uk/files/files/NLMS_493_for%20web2.pdf)
+* [**Microthesis: A Novel Algorithm for Solving Fredholm Integral Equations**](https://www.lms.ac.uk/sites/lms.ac.uk/files/files/NLMS_493_for%20web2.pdf)\
     Crucinio F.R., LMS Newsletter (493), 2021
