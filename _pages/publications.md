@@ -5,12 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Preprints
 
-{% include base_path %}
+## Journals
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Conference Proceedings
+
+## Books
+
+## Other
+
+* **Some interacting particle methods with non-standard interactions**, F.R. Crucinio, PhD Thesis, University of Warwick, 2021
+* **Microthesis: A Novel Algorithm for Solving Fredholm Integral Equations**, F.R. Crucinio, LMS Newsletter (493), 2021
