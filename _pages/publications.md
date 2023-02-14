@@ -7,7 +7,32 @@ author_profile: true
 
 ### Preprints
 
+* [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
+    Crucinio F.R., Durmus A., Jim\'enez P., Roberts, G. O.\
+   arXiv pre-print: 2301.02446
+* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://arxiv.org/abs/2211.14201)\
+    Crucinio F.R., Johansen, A.M.\
+    arXiv pre-print: 2211.14201
+* [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
+    Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.\
+    arXiv pre-print: 2209.09936
+* [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://arxiv.org/abs/2110.15782)\
+    Kuntz J., Crucinio F.R., Johansen, A.M. \
+    arXiv pre-print: 2110.15782
+
 ### Journals
+
+* [**Product-form estimators: exploiting independence to scale up Monte Carlo**](https://link.springer.com/article/10.1007/s11222-021-10069-9)\
+    Kuntz J., Crucinio F.R., Johansen A.M.\
+    Statistics and Computing 32, 12, 2022
+
+* [**A Particle Method for Solving Fredholm Equations of the First Kind**](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1962328)\
+    Crucinio F.R., Doucet A., Johansen, A.M.\
+    Journal of the American Statistical Association, 2021
+    
+* [**Orbit-based conditional tests. A link between permutations and Markov bases**](https://www.sciencedirect.com/science/article/pii/S0378375819300539)\
+    Fontana R., Crucinio F. R.\
+    Journal of Statistical Planning and Inference 205:(23-33), 2020
 
 ### Conference Proceedings
 
@@ -22,11 +47,14 @@ author_profile: true
 ### Books
 
 * [**Elementi di Statistica per l’Ingegneria e l’Architettura. Teoria ed esercizi svolti**](https://bookshop.editrice-esculapio.com/products/pellerey-fontana-bonino-crucinio-elementi-di-statistica-per-lingegneria-e-larchitettura)\
-    Bonino D., Crucinio F.R., Fontana R., Pellerey F., Società Editrice Esculapio, 2017
+    Bonino D., Crucinio F.R., Fontana R., Pellerey F.\
+    Società Editrice Esculapio, 2017
 
 ### Other
 
 * [**Some interacting particle methods with non-standard interactions**](http://wrap.warwick.ac.uk/161984/)\
-    Crucinio F.R., PhD Thesis, University of Warwick, 2021
+    Crucinio F.R.\
+    PhD Thesis, University of Warwick, 2021
 * [**Microthesis: A Novel Algorithm for Solving Fredholm Integral Equations**](https://www.lms.ac.uk/sites/lms.ac.uk/files/files/NLMS_493_for%20web2.pdf)\
-    Crucinio F.R., LMS Newsletter (493), 2021
+    Crucinio F.R.\
+    LMS Newsletter (493), 2021

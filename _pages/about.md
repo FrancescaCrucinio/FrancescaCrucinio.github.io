@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoctoral Fellow at [ENSAE](https://www.ensae.fr/en) and member of [CREST](https://crest.science/).
+I am a PostDoctoral Fellow at [ENSAE](https://www.ensae.fr/en) and a member of [CREST](https://crest.science/).
+
+I am interested in Monte Carlo and interacting particle methods (e.g. importance sampling, sequential Monte Carlo, Markov chain Monte Carlo, McKean-Vlasov stochastic differential equations) both from a methodological and a theoretical point of view.
