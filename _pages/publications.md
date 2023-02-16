@@ -8,7 +8,7 @@ author_profile: true
 ### Preprints
 
 * [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
-    Crucinio F.R., Durmus A., Jim\'enez P., Roberts, G. O.\
+    Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
    arXiv pre-print: 2301.02446
 * [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://arxiv.org/abs/2211.14201)\
     Crucinio F.R., Johansen, A.M.\
