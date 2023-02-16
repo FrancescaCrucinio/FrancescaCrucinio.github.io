@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Upated 02/2023. <u><a href="https://francescacrucinio.github.io/files/cv.pdf">cv</a></u>.
-<br/>
+A copy of my CV (last updated 02/2023) can be found [here](/files/cv.pdf">here</a></u>).
