@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-A copy of my CV (last updated 02/2023) can be found [here](/files/cv.pdf">here</a></u>).
+A copy of my CV (last updated 02/2023) can be found [here](../files/cv.pdf">here</a></u>).
