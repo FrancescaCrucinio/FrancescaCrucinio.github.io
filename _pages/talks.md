@@ -16,4 +16,5 @@ to high dimensional filtering, March 2023 [BayesComp 2023](https://bayescomp2023
 
 ## Recordings
 
+* [A Particle Method for Fredholm Integral Equations](https://www.youtube.com/watch?v=2rwDxdusAvw&ab_channel=ACEMS-ARCCentreofExcellenceforMathematical%26StatisticalFrontiers), 30 September 2021, EC Bayes Seminar
 

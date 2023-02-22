@@ -10,9 +10,6 @@ author_profile: true
 * [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
    arXiv pre-print: 2301.02446
-* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://arxiv.org/abs/2211.14201)\
-    Crucinio F.R., Johansen, A.M.\
-    arXiv pre-print: 2211.14201
 * [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
     Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.\
     arXiv pre-print: 2209.09936
@@ -22,6 +19,10 @@ author_profile: true
 
 ### Journals
 
+* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://arxiv.org/abs/2211.14201)\
+    Crucinio F.R., Johansen, A.M.\
+    Statistica Sinica, In press, 2023
+    
 * [**Product-form estimators: exploiting independence to scale up Monte Carlo**](https://link.springer.com/article/10.1007/s11222-021-10069-9)\
     Kuntz J., Crucinio F.R., Johansen A.M.\
     Statistics and Computing 32, 12, 2022
