@@ -7,6 +7,9 @@ author_profile: true
 
 ### Preprints
 
+* [**Properties of Marginal Sequential Monte Carlo Methods**](https://arxiv.org/abs/2303.03498)\
+    Crucinio F.R., Johansen, A.M.\
+       arXiv pre-print: 2303.03498
 * [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
    arXiv pre-print: 2301.02446
@@ -19,7 +22,7 @@ author_profile: true
 
 ### Journals
 
-* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://arxiv.org/abs/2211.14201)\
+* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)\
     Crucinio F.R., Johansen, A.M.\
     Statistica Sinica, In press, 2023
     

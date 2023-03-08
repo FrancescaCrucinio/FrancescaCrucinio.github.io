@@ -9,7 +9,7 @@ author_profile: true
 * Optimal Scaling for a Wide Class of Proximal MALA Algorithms, 21 March 2023 [All About That Bayes Seminar](https://sites.google.com/view/all-about-that-bayes/#h.3vqx6sj2stlg)
 
 * A divide and conquer sequential Monte Carlo approach
-to high dimensional filtering, March 2023 [BayesComp 2023](https://bayescomp2023.com/)
+to high dimensional filtering, 16 March 2023 [BayesComp 2023](https://bayescomp2023.com/programme)
 
 * Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows, 13 March 2023
   [Séminaire Parisien de Statistique](https://sites.google.com/site/semstats/home)
