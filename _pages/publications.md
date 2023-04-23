@@ -7,6 +7,9 @@ author_profile: true
 
 ### Preprints
 
+* [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
+        Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
+       arXiv pre-print: 2303.13429
 * [**Properties of Marginal Sequential Monte Carlo Methods**](https://arxiv.org/abs/2303.03498)\
     Crucinio F.R., Johansen, A.M.\
        arXiv pre-print: 2303.03498
