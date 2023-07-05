@@ -6,9 +6,7 @@ author_profile: true
 
 ## Upcoming 
 
-* 29 June 2023 [14th International Conference on Monte Carlo Methods and Applications](https://mcm2023.sciencesconf.org/resource/page/id/5) (poster)
-
-* July 2023 [SMC Down Under: AMSI-AustMS Workshop on Sequential Monte Carlo](https://research.qut.edu.au/qutcds/events/smc-down-under-23/)
+* 11 July 2023 [SMC Down Under: AMSI-AustMS Workshop on Sequential Monte Carlo](https://research.qut.edu.au/qutcds/events/smc-down-under-23/)
 
 * September 2023, [23rd European Young Statisticians Meeting, Ljubljana, online](https://sites.google.com/view/eysm2023/home?authuser=0)
 

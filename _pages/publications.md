@@ -19,12 +19,14 @@ author_profile: true
 * [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
     Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.\
     arXiv pre-print: 2209.09936
-* [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://arxiv.org/abs/2110.15782)\
-    Kuntz J., Crucinio F.R., Johansen, A.M. \
-    arXiv pre-print: 2110.15782
+
 
 ### Journals
 
+* [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://arxiv.org/abs/2110.15782)\
+    Kuntz J., Crucinio F.R., Johansen, A.M. \
+    Annals of Applied Probability, In press, 2023
+    
 * [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)\
     Crucinio F.R., Johansen, A.M.\
     Statistica Sinica, In press, 2023
@@ -35,7 +37,7 @@ author_profile: true
 
 * [**A Particle Method for Solving Fredholm Equations of the First Kind**](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1962328)\
     Crucinio F.R., Doucet A., Johansen, A.M.\
-    Journal of the American Statistical Association, 2021
+    Journal of the American Statistical Association, 118:542, 937-947, 2023
     
 * [**Orbit-based conditional tests. A link between permutations and Markov bases**](https://www.sciencedirect.com/science/article/pii/S0378375819300539)\
     Fontana R., Crucinio F. R.\
