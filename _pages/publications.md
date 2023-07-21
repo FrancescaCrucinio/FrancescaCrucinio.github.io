@@ -23,7 +23,7 @@ author_profile: true
 
 ### Journals
 
-* [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://arxiv.org/abs/2110.15782)\
+* [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://www.e-publications.org/ims/submission/AAP/user/submissionFile/54955?confirm=f9f4b924)\
     Kuntz J., Crucinio F.R., Johansen, A.M. \
     Annals of Applied Probability, In press, 2023
 * [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)\
