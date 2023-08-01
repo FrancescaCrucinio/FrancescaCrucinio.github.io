@@ -10,9 +10,6 @@ author_profile: true
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
        arXiv pre-print: 2303.13429
-* [**Properties of Marginal Sequential Monte Carlo Methods**](https://arxiv.org/abs/2303.03498)\
-    Crucinio F.R., Johansen, A.M.\
-       arXiv pre-print: 2303.03498
 * [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
    arXiv pre-print: 2301.02446
@@ -23,6 +20,9 @@ author_profile: true
 
 ### Journals
 
+* [**Properties of Marginal Sequential Monte Carlo Methods**](https://arxiv.org/abs/2303.03498)\
+    Crucinio F.R., Johansen, A.M.\
+       Statistics and Probability Letters, In press, 2023
 * [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://www.e-publications.org/ims/submission/AAP/user/submissionFile/54955?confirm=f9f4b924)\
     Kuntz J., Crucinio F.R., Johansen, A.M. \
     Annals of Applied Probability, In press, 2023
