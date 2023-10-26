@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 ## Upcoming 
-
-* September 2023, [23rd European Young Statisticians Meeting, Ljubljana, online](https://sites.google.com/view/eysm2023/home?authuser=0)
+* 1 December 2023, [Gradient Flows For Sampling, Inference, and Learning](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-learni/)
+* 31 October 2023, [Autumn school in Bayesian Statistics 2023](https://bayesatcirm.github.io/2023/)
 
 ## Recordings
 

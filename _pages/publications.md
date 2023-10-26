@@ -7,6 +7,9 @@ author_profile: true
 
 ### Preprints
 
+* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)\
+        Chopin N., Crucinio F.R., Korba A.\
+       arXiv pre-print: 2303.13429
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
        arXiv pre-print: 2303.13429
