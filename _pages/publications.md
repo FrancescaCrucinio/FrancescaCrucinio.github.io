@@ -9,29 +9,25 @@ author_profile: true
 
 * [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)\
         Chopin N., Crucinio F.R., Korba A.\
-       arXiv pre-print: 2303.13429
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
-       arXiv pre-print: 2303.13429
 * [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
-   arXiv pre-print: 2301.02446
 * [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
     Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.\
-    arXiv pre-print: 2209.09936
 
 
 ### Journals
 
-* [**Properties of Marginal Sequential Monte Carlo Methods**](https://arxiv.org/abs/2303.03498)\
+* [**Properties of Marginal Sequential Monte Carlo Methods**](https://www.sciencedirect.com/science/article/pii/S0167715223001384)\
     Crucinio F.R., Johansen, A.M.\
-       Statistics and Probability Letters, In press, 2023
+       Statistics and Probability Letters, Volume 203, 109914, 2023
 * [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://www.e-publications.org/ims/submission/AAP/user/submissionFile/54955?confirm=f9f4b924)\
     Kuntz J., Crucinio F.R., Johansen, A.M. \
     Annals of Applied Probability, In press, 2023
 * [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)\
     Crucinio F.R., Johansen, A.M.\
-    Statistica Sinica, In press, 2023
+    Statistica Sinica, Volume 34, Online Special Issue I, 2024
 * [**Product-form estimators: exploiting independence to scale up Monte Carlo**](https://link.springer.com/article/10.1007/s11222-021-10069-9)\
     Kuntz J., Crucinio F.R., Johansen A.M.\
     Statistics and Computing 32, 12, 2022
