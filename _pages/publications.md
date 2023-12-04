@@ -7,14 +7,14 @@ author_profile: true
 
 ### Preprints
 
-* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)\
-        Chopin N., Crucinio F.R., Korba A.\
+* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)
+        Chopin N., Crucinio F.R., Korba A.
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
-        Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
+        Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.
 * [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
-    Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
+    Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.
 * [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
-    Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.\
+    Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.
 
 
 ### Journals
