@@ -17,4 +17,4 @@ Before joining ENSAE, I was a Research Fellow in the Department of Statistics of
 I obtained my PhD in 2021 from the University of Warwick under the supervision of Adam Johansen and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/).
 
 
-**Contact** francesca *dot* crucinio *at* ensae.fr
+<!--**Contact** francesca *dot* crucinio *at* ensae.fr-->
