@@ -19,21 +19,21 @@ author_profile: true
 
 ### Journals
 
+* [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/The-divide-and-conquer-sequential-Monte-Carlo-algorithm--Theoretical/10.1214/23-AAP1996.full)\
+    Kuntz J., Crucinio F.R., Johansen, A.M. \
+    Annals of Applied Probability, 34(1B): 1469-1523, 2024
+* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)\
+    Crucinio F.R., Johansen, A.M.\
+    Statistica Sinica, Volume 34, Online Special Issue I, 2024    
 * [**Properties of Marginal Sequential Monte Carlo Methods**](https://www.sciencedirect.com/science/article/pii/S0167715223001384)\
     Crucinio F.R., Johansen, A.M.\
        Statistics and Probability Letters, Volume 203, 109914, 2023
-* [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://www.e-publications.org/ims/submission/AAP/user/submissionFile/54955?confirm=f9f4b924)\
-    Kuntz J., Crucinio F.R., Johansen, A.M. \
-    Annals of Applied Probability, In press, 2023
-* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)\
-    Crucinio F.R., Johansen, A.M.\
-    Statistica Sinica, Volume 34, Online Special Issue I, 2024
-* [**Product-form estimators: exploiting independence to scale up Monte Carlo**](https://link.springer.com/article/10.1007/s11222-021-10069-9)\
-    Kuntz J., Crucinio F.R., Johansen A.M.\
-    Statistics and Computing 32, 12, 2022
 * [**A Particle Method for Solving Fredholm Equations of the First Kind**](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1962328)\
     Crucinio F.R., Doucet A., Johansen, A.M.\
     Journal of the American Statistical Association, 118:542, 937-947, 2023
+* [**Product-form estimators: exploiting independence to scale up Monte Carlo**](https://link.springer.com/article/10.1007/s11222-021-10069-9)\
+    Kuntz J., Crucinio F.R., Johansen A.M.\
+    Statistics and Computing 32, 12, 2022
 * [**Orbit-based conditional tests. A link between permutations and Markov bases**](https://www.sciencedirect.com/science/article/pii/S0378375819300539)\
     Fontana R., Crucinio F. R.\
     Journal of Statistical Planning and Inference 205:(23-33), 2020
