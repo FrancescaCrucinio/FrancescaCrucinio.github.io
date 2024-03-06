@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-A copy of my CV (last updated 08/2023) can be found [here](https://francescacrucinio.github.io/files/cv.pdf).
+A copy of my CV (last updated 03/2024) can be found [here](https://francescacrucinio.github.io/files/cv.pdf).
