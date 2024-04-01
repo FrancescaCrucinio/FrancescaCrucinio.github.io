@@ -7,6 +7,8 @@ author_profile: true
 
 ### Preprints
 
+* [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)
+        Chopin N., Crucinio F.R., Singh S. S.
 * [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)
         Chopin N., Crucinio F.R., Korba A.
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
