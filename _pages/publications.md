@@ -17,7 +17,7 @@ author_profile: true
 
 
 ### Papers
-* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)
+* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)\
         Chopin N., Crucinio F.R., Korba A.\
     Proceedings of the 41st International Conference of Machine Learning (ICML), 2024
 * [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
