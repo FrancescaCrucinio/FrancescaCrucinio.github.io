@@ -9,18 +9,20 @@ author_profile: true
 
 * [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)
         Chopin N., Crucinio F.R., Singh S. S.
-* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)
-        Chopin N., Crucinio F.R., Korba A.
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.
 * [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.
+
+
+
+### Papers
+* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)
+        Chopin N., Crucinio F.R., Korba A.\
+    Proceedings of the 41st International Conference of Machine Learning (ICML), 2024
 * [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
-    Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.
-
-
-### Journals
-
+    Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.\
+    Stochastic Processes & their Applications, 2024+
 * [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/The-divide-and-conquer-sequential-Monte-Carlo-algorithm--Theoretical/10.1214/23-AAP1996.full)\
     Kuntz J., Crucinio F.R., Johansen, A.M. \
     Annals of Applied Probability, 34(1B): 1469-1523, 2024
@@ -40,16 +42,6 @@ author_profile: true
     Fontana R., Crucinio F. R.\
     Journal of Statistical Planning and Inference 205:(23-33), 2020
 
-### Conference Proceedings
-
-* [**Speeding up algebraic-based sampling via permutations**](https://link.springer.com/chapter/10.1007/978-3-030-57306-5_14)\
-    Crucinio F.R., Fontana R.\
-    In: La Rocca M., Liseo B., Salmaso L. (eds) Nonparametric Statistics. ISNPS 2018. Springer Proceedings in Mathematics & Statistics 339(145-155), 2020
-* [**Comparison of conditional tests on Poisson data**](https://core.ac.uk/download/pdf/84253504.pdf)\
-    Fontana R., Crucinio F.R.\
-    Statistics and Data Science: new challenges, new generations. SIS 2017 Proceedings, Firenze University Press, 2017
-
-
 ### Books
 
 * [**Elementi di Statistica per l’Ingegneria e l’Architettura. Teoria ed esercizi svolti**](https://bookshop.editrice-esculapio.com/products/pellerey-fontana-bonino-crucinio-elementi-di-statistica-per-lingegneria-e-larchitettura)\
@@ -57,7 +49,12 @@ author_profile: true
     Società Editrice Esculapio, 2017
 
 ### Other
-
+* [**Speeding up algebraic-based sampling via permutations**](https://link.springer.com/chapter/10.1007/978-3-030-57306-5_14)\
+    Crucinio F.R., Fontana R.\
+    In: La Rocca M., Liseo B., Salmaso L. (eds) Nonparametric Statistics. ISNPS 2018. Springer Proceedings in Mathematics & Statistics 339(145-155), 2020
+* [**Comparison of conditional tests on Poisson data**](https://core.ac.uk/download/pdf/84253504.pdf)\
+    Fontana R., Crucinio F.R.\
+    Statistics and Data Science: new challenges, new generations. SIS 2017 Proceedings, Firenze University Press, 2017
 * [**Some interacting particle methods with non-standard interactions**](http://wrap.warwick.ac.uk/161984/)\
     Crucinio F.R.\
     PhD Thesis, University of Warwick, 2021
