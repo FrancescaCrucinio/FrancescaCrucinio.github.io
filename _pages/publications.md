@@ -20,9 +20,9 @@ author_profile: true
 * [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)\
         Chopin N., Crucinio F.R., Korba A.\
     Proceedings of the 41st International Conference of Machine Learning (ICML), 2024
-* [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2209.09936)\
+* [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://www.sciencedirect.com/science/article/pii/S0304414924000802?via%3Dihub)\
     Crucinio F.R., De Bortoli V., Doucet A., Johansen, A.M.\
-    Stochastic Processes & their Applications, 2024+
+    Stochastic Processes & their Applications, Volume 173, July 2024, 104374, 2024
 * [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/The-divide-and-conquer-sequential-Monte-Carlo-algorithm--Theoretical/10.1214/23-AAP1996.full)\
     Kuntz J., Crucinio F.R., Johansen, A.M. \
     Annals of Applied Probability, 34(1B): 1469-1523, 2024
