@@ -7,11 +7,13 @@ author_profile: true
 
 ### Preprints
 
-* [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)
+* [**Proximal Interacting Particle Langevin Algorithm**](https://arxiv.org/abs/2406.14292)\
+    Cordero Encinar P., Crucinio F.R., Akyildiz Ö. D.
+* [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)\
         Chopin N., Crucinio F.R., Singh S. S.
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.
-* [**Optimal Scaling Results for a Wide Class of Proximal MALA Algorithms**](https://arxiv.org/abs/2301.02446)\
+* [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://arxiv.org/abs/2301.02446)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.
 
 
