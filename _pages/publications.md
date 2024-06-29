@@ -13,12 +13,13 @@ author_profile: true
         Chopin N., Crucinio F.R., Singh S. S.
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.
-* [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://arxiv.org/abs/2301.02446)\
-    Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.
 
 
 
 ### Papers
+* [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://arxiv.org/abs/2301.02446)\
+    Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
+    Bernoulli, 2024+
 * [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)\
         Chopin N., Crucinio F.R., Korba A.\
     Proceedings of the 41st International Conference of Machine Learning (ICML), 2024
