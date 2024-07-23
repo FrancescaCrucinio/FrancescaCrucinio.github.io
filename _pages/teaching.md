@@ -5,5 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-In Spring 2024 I will be lecturing the [Computational Statistics](https://www.kcl.ac.uk/abroad/module-options/module?id=1a6df95e-951b-448c-9e6d-0c617e7e0f46) module of the MSc in Statistics at King's College London with Nik Nüsken and Fabrizio Leisen.
+* In Autumn 2024 I will be lecturing the **Statistics for Data Science** module of the [MSc in Data Science](https://www.kcl.ac.uk/study/postgraduate-taught/courses/data-science-msc) at King's College London with Fabrizio Leisen.
+
+* In Spring 2025 I will be lecturing the **Computational Statistics** module of the [MSc in Statistics](https://www.kcl.ac.uk/study/postgraduate-taught/courses/statistics) at King's College London with Nik Nüsken and Fabrizio Leisen.
 
