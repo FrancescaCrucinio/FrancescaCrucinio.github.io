@@ -7,6 +7,8 @@ author_profile: true
 
 ### Preprints
 
+* [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
+        Crucinio F.R., Johansen, A.M.
 * [**Proximal Interacting Particle Langevin Algorithm**](https://arxiv.org/abs/2406.14292)\
     Cordero Encinar P., Crucinio F.R., Akyildiz Ö. D.
 * [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)\
