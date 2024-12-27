@@ -6,6 +6,10 @@ author_profile: true
 
 ## Upcoming 
 
+* April 2025, [BAYSM](https://baysm2025.github.io/)
+
+* May 2025, [Crism relaunch workshop](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025/)
+
 
 ## Past
 

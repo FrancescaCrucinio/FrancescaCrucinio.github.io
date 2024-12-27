@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Francesca Romana Crucinio"
 title_separator          : "-"
 name                     : &name "Francesca Romana Crucinio"
-description              : &description "Lecturer at King's College London"
+description              : &description "Tenure Track Assistant Professor @ Unito"
 url                      : https://francescacrucinio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "francescacrucinio/francescacrucinio.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Francesca Romana Crucinio"
   avatar           : "profile_pic.jpeg"
-  bio              : "Lecturer, King's College London"
-  location         : "London, UK"
+  bio              : "Tenure Track Assistant Professor @ Unito"
+  location         : "Torino, Italy"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=5lHQhggAAAAJ&hl=it"

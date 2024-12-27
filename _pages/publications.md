@@ -22,7 +22,7 @@ author_profile: true
 * [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://arxiv.org/abs/2301.02446)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
     Bernoulli, 2024+
-* [**A connection between Tempering and Entropic Mirror Descent**](https://arxiv.org/abs/2310.11914)\
+* [**A connection between Tempering and Entropic Mirror Descent**](https://proceedings.mlr.press/v235/chopin24a.html)\
         Chopin N., Crucinio F.R., Korba A.\
     Proceedings of the 41st International Conference of Machine Learning (ICML), 2024
 * [**Solving Fredholm Equations of the First Kind via Wasserstein Gradient Flows**](https://www.sciencedirect.com/science/article/pii/S0304414924000802?via%3Dihub)\
