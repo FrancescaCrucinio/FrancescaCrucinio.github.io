@@ -7,8 +7,7 @@ author_profile: true
 
 ### Preprints
 
-* [**A mirror descent approach to maximum likelihood estimation in latent variable models
-**](https://arxiv.org/abs/2501.15896)\
+* [**A mirror descent approach to maximum likelihood estimation in latent variable models**](https://arxiv.org/abs/2501.15896)\
         Crucinio F.R.
 * [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
         Crucinio F.R., Johansen, A.M.
