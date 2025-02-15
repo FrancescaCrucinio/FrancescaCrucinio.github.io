@@ -10,6 +10,8 @@ author_profile: true
 
 * May 2025, [Crism relaunch workshop](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025/)
 
+* June 2025, [BayesComp 2025](https://bayescomp2025.sg/#speakers)
+
 
 ## Past
 
