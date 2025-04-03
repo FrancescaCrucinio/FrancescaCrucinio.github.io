@@ -13,12 +13,13 @@ author_profile: true
         Crucinio F.R., Johansen, A.M.
 * [**Proximal Interacting Particle Langevin Algorithm**](https://arxiv.org/abs/2406.14292)\
     Cordero Encinar P., Crucinio F.R., Akyildiz Ö. D.
-* [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)\
-        Chopin N., Crucinio F.R., Singh S. S.
 
 
 
 ### Papers
+* [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)\
+        Chopin N., Crucinio F.R., Singh S. S.\
+        Biometrika, 2025+
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
         ESAIM: Probability and Statistics, 2025+
