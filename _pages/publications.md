@@ -17,13 +17,15 @@ author_profile: true
 
 
 ### Papers
+
+(arXiv versions [here](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=francesca+romana+crucinio&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first))
 * [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)\
         Chopin N., Crucinio F.R., Singh S. S.\
         Biometrika, 2025+
-* [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://arxiv.org/abs/2303.13429)\
+* [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://www.esaim-ps.org/component/article?access=doi&doi=10.1051/ps/2025005)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
         ESAIM: Probability and Statistics, 2025+
-* [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://arxiv.org/abs/2301.02446)\
+* [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://projecteuclid.org/journals/bernoulli/volume-31/issue-3/Optimal-scaling-results-for-Moreau-Yosida-Metropolis-adjusted-Langevin-algorithms/10.3150/24-BEJ1790.full)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
     Bernoulli, 2024+
 * [**A connection between Tempering and Entropic Mirror Descent**](https://proceedings.mlr.press/v235/chopin24a.html)\
