@@ -11,15 +11,17 @@ author_profile: true
         Crucinio F.R.
 * [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
         Crucinio F.R., Johansen, A.M.
-* [**Proximal Interacting Particle Langevin Algorithm**](https://arxiv.org/abs/2406.14292)\
-    Cordero Encinar P., Crucinio F.R., Akyildiz Ö. D.
 
 
 
 ### Papers
 
-(arXiv versions [here](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=francesca+romana+crucinio&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first))
-* [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://arxiv.org/abs/2403.20313)\
+(arXiv versions [here](https://arxiv.org/a/crucinio_f_1.html))
+
+* [**Proximal Interacting Particle Langevin Algorithm**](https://arxiv.org/abs/2406.14292)\
+    Cordero Encinar P., Crucinio F.R., Akyildiz Ö. D.\
+    Uncertainty in Artificial Intelligence (UAI), 2025 (Oral)
+* [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf030/8113845)\
         Chopin N., Crucinio F.R., Singh S. S.\
         Biometrika, 2025+
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://www.esaim-ps.org/component/article?access=doi&doi=10.1051/ps/2025005)\
@@ -27,7 +29,7 @@ author_profile: true
         ESAIM: Probability and Statistics, 2025+
 * [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://projecteuclid.org/journals/bernoulli/volume-31/issue-3/Optimal-scaling-results-for-Moreau-Yosida-Metropolis-adjusted-Langevin-algorithms/10.3150/24-BEJ1790.full)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
-    Bernoulli, 2024+
+    Bernoulli, Vol. 31, No. 3, 1889-1907, 2025
 * [**A connection between Tempering and Entropic Mirror Descent**](https://proceedings.mlr.press/v235/chopin24a.html)\
         Chopin N., Crucinio F.R., Korba A.\
     Proceedings of the 41st International Conference of Machine Learning (ICML), 2024
