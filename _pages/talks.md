@@ -6,12 +6,9 @@ author_profile: true
 
 ## Upcoming 
 
-* April 2025, [BAYSM](https://baysm2025.github.io/)
-* May 2025, [MaLGa seminar](https://malga.unige.it/seminars)
-* May 2025, [Crism relaunch workshop](https://warwick.ac.uk/fac/sci/statistics/news/crism-event2025/)
 * June 2025, [BayesComp 2025](https://bayescomp2025.sg/#speakers)
 * September 2025, [RSS Conference](https://rss.org.uk/training-events/conference-2025/)
-
+* Novembere 2025, [Matrix Workshop on Theoretical and Computational Foundations of Sequential Learning](https://www.matrix-inst.org.au/events/theoretical-and-computational-foundations-of-sequential-learning/)
 
 ## Past
 

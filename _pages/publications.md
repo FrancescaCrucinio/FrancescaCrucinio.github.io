@@ -7,6 +7,8 @@ author_profile: true
 
 ### Preprints
 
+* [**Sequential Monte Carlo approximations of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2506.05905)\
+        Crucinio F.R., Pathiraja, S.
 * [**A mirror descent approach to maximum likelihood estimation in latent variable models**](https://arxiv.org/abs/2501.15896)\
         Crucinio F.R.
 * [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
@@ -39,7 +41,7 @@ author_profile: true
 * [**The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems**](https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1B/The-divide-and-conquer-sequential-Monte-Carlo-algorithm--Theoretical/10.1214/23-AAP1996.full)\
     Kuntz J., Crucinio F.R., Johansen, A.M. \
     Annals of Applied Probability, 34(1B): 1469-1523, 2024
-* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0243_na.pdf)\
+* [**A divide and conquer sequential Monte Carlo approach to high dimensional filtering**](https://wrap.warwick.ac.uk/id/eprint/173867/)\
     Crucinio F.R., Johansen, A.M.\
     Statistica Sinica, Volume 34, Online Special Issue I, 2024    
 * [**Properties of Marginal Sequential Monte Carlo Methods**](https://www.sciencedirect.com/science/article/pii/S0167715223001384)\
