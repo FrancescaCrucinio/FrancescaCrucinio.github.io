@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 ### Preprints
-
+* [**A note on the unique properties of the Kullback--Leibler divergence for sampling via gradient flows**](https://arxiv.org/abs/2507.04330)\
+    Crucinio F.R.
 * [**Sequential Monte Carlo approximations of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2506.05905)\
-        Crucinio F.R., Pathiraja, S.
+    Crucinio F.R., Pathiraja, S.
 * [**A mirror descent approach to maximum likelihood estimation in latent variable models**](https://arxiv.org/abs/2501.15896)\
-        Crucinio F.R.
+    Crucinio F.R.
 * [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
         Crucinio F.R., Johansen, A.M.
 
@@ -26,9 +27,9 @@ author_profile: true
 * [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf030/8113845)\
         Chopin N., Crucinio F.R., Singh S. S.\
         Biometrika, 2025+
-* [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://www.esaim-ps.org/component/article?access=doi&doi=10.1051/ps/2025005)\
+* [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://www.esaim-ps.org/articles/ps/abs/2025/01/ps240035/ps240035.html)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
-        ESAIM: Probability and Statistics, 2025+
+        ESAIM: Probability and Statistics, Vol. 29, 243–280, 2025
 * [**Optimal Scaling Results for Moreau-Yosida Metropolis-adjusted Langevin Algorithms**](https://projecteuclid.org/journals/bernoulli/volume-31/issue-3/Optimal-scaling-results-for-Moreau-Yosida-Metropolis-adjusted-Langevin-algorithms/10.3150/24-BEJ1790.full)\
     Crucinio F.R., Durmus A., Jiménez P., Roberts, G. O.\
     Bernoulli, Vol. 31, No. 3, 1889-1907, 2025

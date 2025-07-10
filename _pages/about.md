@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Tenure Track Assistant Professor (RTT) in the [Department of Economics, Social Studies, Applied Mathematics and Statistics](https://www.esomas-en.unito.it/do/home.pl) at the University of Turin. I am also affiliated with the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/) at the Collegio Carlo Alberto.
+I am a Tenure Track Assistant Professor (RTT) in the [Department of Economics, Social Studies, Applied Mathematics and Statistics](https://www.esomas-en.unito.it/do/home.pl) at the University of Turin. I am also a [Collegio Carlo Alberto affiliate](https://www.carloalberto.org/person/francesca-romana-crucinio/) and a member of the ["de Castro" Statistics Initiative](https://www.carloalberto.org/research/statistics-initiative/).
 
 I am interested in Monte Carlo and interacting particle methods (e.g. importance sampling, sequential Monte Carlo, Markov chain Monte Carlo, McKean-Vlasov stochastic differential equations) both from a methodological and a theoretical point of view.
 
