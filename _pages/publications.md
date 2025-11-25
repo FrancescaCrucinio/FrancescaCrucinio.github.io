@@ -6,12 +6,14 @@ author_profile: true
 ---
 
 ### Preprints
+    <!--* [**Properties and limitations of geometric tempering for gradient flow dynamics**](???)\
+    Crucinio F.R., Pathiraja, S.-->
+* [**An operator splitting analysis of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2511.18060)\
+    Crucinio F.R., Pathiraja, S.
 * [**A note on the unique properties of the Kullback--Leibler divergence for sampling via gradient flows**](https://arxiv.org/abs/2507.04330)\
     Crucinio F.R.
 * [**Sequential Monte Carlo approximations of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2506.05905)\
     Crucinio F.R., Pathiraja, S.
-* [**A mirror descent approach to maximum likelihood estimation in latent variable models**](https://arxiv.org/abs/2501.15896)\
-    Crucinio F.R.
 * [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
         Crucinio F.R., Johansen, A.M.
 
@@ -21,12 +23,18 @@ author_profile: true
 
 (arXiv versions [here](https://arxiv.org/a/crucinio_f_1.html))
 
-* [**Proximal Interacting Particle Langevin Algorithm**](https://arxiv.org/abs/2406.14292)\
+* [**Wasserstein Fisher Rao Gradient Flows: Operator Splitting \& Convergence Speed**](https://sites.google.com/view/dynafrontneurips25/papers?authuser=0)\
+    Crucinio F.R., Pathiraja, S.\
+    NeurIPS Workshop on Dynamics at the Frontiers of Optimization, Sampling, and Games, 2025
+* [**A mirror descent approach to maximum likelihood estimation in latent variable models**](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2587614)\
+    Crucinio F.R.\
+    Journal of Computational and Graphical Statistics, 2025+
+* [**Proximal Interacting Particle Langevin Algorithm**](https://proceedings.mlr.press/v286/encinar25a.html)\
     Cordero Encinar P., Crucinio F.R., Akyildiz Ö. D.\
     Uncertainty in Artificial Intelligence (UAI), 2025 (Oral)
 * [**Towards a turnkey approach to unbiased Monte Carlo estimation of smooth functions of expectations**](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asaf030/8113845)\
         Chopin N., Crucinio F.R., Singh S. S.\
-        Biometrika, 2025+
+        Biometrika, Volume 112, Issue 3, 2025
 * [**Interacting Particle Langevin Algorithm for Maximum Marginal Likelihood Estimation**](https://www.esaim-ps.org/articles/ps/abs/2025/01/ps240035/ps240035.html)\
         Akyildiz Ö. D., Crucinio F.R., Girolami M., Johnston T., Sabanis S.\
         ESAIM: Probability and Statistics, Vol. 29, 243–280, 2025
