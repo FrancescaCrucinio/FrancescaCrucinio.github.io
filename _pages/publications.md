@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ### Preprints
-    <!--* [**Properties and limitations of geometric tempering for gradient flow dynamics**](???)\
-    Crucinio F.R., Pathiraja, S.-->
+
 * [**An operator splitting analysis of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2511.18060)\
     Crucinio F.R., Pathiraja, S.
 * [**A note on the unique properties of the Kullback--Leibler divergence for sampling via gradient flows**](https://arxiv.org/abs/2507.04330)\
