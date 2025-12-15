@@ -22,7 +22,7 @@ author_profile: true
 
 (arXiv versions [here](https://arxiv.org/a/crucinio_f_1.html))
 
-* [**Wasserstein Fisher Rao Gradient Flows: Operator Splitting \& Convergence Speed**](https://sites.google.com/view/dynafrontneurips25/papers?authuser=0)\
+* [**Wasserstein Fisher Rao Gradient Flows: Operator Splitting & Convergence Speed**](https://openreview.net/pdf?id=lmZnanyV7Z)\
     Crucinio F.R., Pathiraja, S.\
     NeurIPS Workshop on Dynamics at the Frontiers of Optimization, Sampling, and Games, 2025
 * [**A mirror descent approach to maximum likelihood estimation in latent variable models**](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2587614)\

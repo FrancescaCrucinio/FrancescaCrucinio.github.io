@@ -6,9 +6,6 @@ author_profile: true
 
 ## Upcoming 
 
-* September 2025, [RSS Conference](https://rss.org.uk/training-events/conference-2025/)
-* Novembere 2025, [Matrix Workshop on Theoretical and Computational Foundations of Sequential Learning](https://www.matrix-inst.org.au/events/theoretical-and-computational-foundations-of-sequential-learning/)
 
-## Past
+* January 2025, [Séminaire DATA](https://www-ljk.imag.fr/spip.php?article35&id=693fc96f5dbbbc7a9117cfa5&type=SEMINAIRE), Laboratoire Jean Kuntzmann, Grenoble
 
-Slides for most of my past talks are available [here](https://github.com/FrancescaCrucinio/Talks).
