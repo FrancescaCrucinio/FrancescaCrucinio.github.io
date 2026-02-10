@@ -6,7 +6,7 @@ author_profile: true
 
 ## Upcoming 
 
-* May 2026, [StaTalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0)
+* May 2026, [StaTalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0),
 Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS), University of Turin
 
 ## Selected Past Talks
