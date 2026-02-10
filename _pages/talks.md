@@ -9,6 +9,8 @@ author_profile: true
 
 * January 2026, [Séminaire DATA](https://www-ljk.imag.fr/spip.php?article35&id=693fc96f5dbbbc7a9117cfa5&type=SEMINAIRE), Laboratoire Jean Kuntzmann, Grenoble
 
+* May 2026, [StaTalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0)
+Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS), University of Turin
 
 ## Selected Past Talks
 
