@@ -13,8 +13,6 @@ author_profile: true
     Crucinio F.R.
 * [**Sequential Monte Carlo approximations of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2506.05905)\
     Crucinio F.R., Pathiraja, S.
-* [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
-        Crucinio F.R., Johansen, A.M.
 
 
 
@@ -22,6 +20,10 @@ author_profile: true
 
 (arXiv versions [here](https://arxiv.org/a/crucinio_f_1.html))
 
+* [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://arxiv.org/abs/2409.19642)\
+        Crucinio F.R., Johansen, A.M.\\
+        Electronic Journal of Statistics, 2026+
+        
 * [**Wasserstein Fisher Rao Gradient Flows: Operator Splitting & Convergence Speed**](https://neurips.cc/virtual/2025/loc/san-diego/132760)\
     Crucinio F.R., Pathiraja, S.\
     NeurIPS Workshop on Dynamics at the Frontiers of Optimization, Sampling, and Games, 2025
