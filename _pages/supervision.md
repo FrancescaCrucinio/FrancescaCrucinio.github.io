@@ -5,6 +5,9 @@ permalink: /supervision/
 author_profile: true
 ---
 
+Prospective UG/MSc students should email me to discuss possible research directions.
+A list of projects of some of my former students is available below.
+
 
 | Level   | Year & Institution | Candidate              | Title                                       |
 |---------|-------------------------|------------------------|--------------------------------------------------------------------------------------------|
