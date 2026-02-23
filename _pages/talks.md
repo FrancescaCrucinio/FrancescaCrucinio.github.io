@@ -9,6 +9,10 @@ author_profile: true
 * May 2026, [StaTalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0),
 Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS), University of Turin
 
+* June 2026 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2026/), MaLGa, University of Genoa
+
+* July 2026 [IFCS 2026](https://ifcs2026.unimib.it/), University of Milan-Bicocca and University of Milan
+
 ## Selected Past Talks
 
 
