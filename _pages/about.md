@@ -16,6 +16,8 @@ Previously, I was a Lecturer in Statistics at King's College London and even bef
 I obtained my PhD in 2021 from the University of Warwick under the supervision of [Adam Johansen](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/johansen) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/).
 
 
+## Editorial Responsibilities
 
+Associate Editor for Statistics and Computing (2026 -- ).
 
 **Contact** francescaromana *dot* crucinio *at* unito.it
