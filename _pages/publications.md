@@ -20,6 +20,9 @@ author_profile: true
 
 (arXiv versions [here](https://arxiv.org/a/crucinio_f_1.html))
 
+* [**Properties and limitations of geometric tempering for gradient flow dynamics**](https://openreview.net/forum?id=IP0w5LdcxC)\
+    Crucinio F.R., Pathiraja, S.
+    
 * [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-20/issue-1/Solving-Fredholm-integral-equations-of-the-second-kind-via-Wasserstein/10.1214/26-EJS2504.full)\
         Crucinio F.R., Johansen, A.M.\\
         Electronic Journal of Statistics, 20(1) 811--861, 2026
