@@ -28,4 +28,4 @@ Department of Economics, Social Studies, Applied Mathematics and Statistics (ESO
 
 * [Gradient Flows For Sampling, Inference, and Learning workshop](https://rss.org.uk/training-events/events/events-2023/sections/gradient-flows-for-sampling,-inference,-and-le-(1)/), London, UK, December 2023 [slides](/files/WassersteinGradientFlows4IntegralEquations_Dec2023RSS.pdf)
 
-* [SMC Down Under: AMSI-AustMS Workshop on Sequential Monte Carlo](https://research.qut.edu.au/qutcds/events/smc-down-under-23/), Brisbana, Australia, July 2023 [slides](/files/Long_version_July2023QUT.pdf)
+* [SMC Down Under: AMSI-AustMS Workshop on Sequential Monte Carlo](https://research.qut.edu.au/qutcds/events/smc-down-under-23/), Brisbane, Australia, July 2023 [slides](/files/Long_version_July2023QUT.pdf)
