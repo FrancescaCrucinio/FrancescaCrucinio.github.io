@@ -11,6 +11,10 @@ Department of Economics, Social Studies, Applied Mathematics and Statistics (ESO
 
 * June 2026 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2026/), MaLGa, University of Genoa
 
+* June 2026 [MCQMC 2026](https://maths.ed.ac.uk/events/mcqmc-2026), University of Edinburgh 
+
+* July 2026 [ISBA 2026](https://isba2026.github.io/), Nagoya, Japan
+
 * July 2026 [IFCS 2026](https://ifcs2026.unimib.it/), University of Milan-Bicocca and University of Milan
 
 ## Selected Past Talks
