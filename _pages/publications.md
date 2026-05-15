@@ -22,18 +22,20 @@ author_profile: true
 
 * [**Properties and limitations of geometric tempering for gradient flow dynamics**](https://openreview.net/forum?id=IP0w5LdcxC)\
     Crucinio F.R., Pathiraja, S.\\
-    Transactions on Machine Learning Research, 2026+
+    Transactions on Machine Learning Research, 2026
     
 * [**Solving Fredholm Equations of the Second Kind via Wasserstein Gradient Flows**](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-20/issue-1/Solving-Fredholm-integral-equations-of-the-second-kind-via-Wasserstein/10.1214/26-EJS2504.full)\
         Crucinio F.R., Johansen, A.M.\\
         Electronic Journal of Statistics, 20(1) 811--861, 2026
         
-* [**Wasserstein Fisher Rao Gradient Flows: Operator Splitting & Convergence Speed**](https://neurips.cc/virtual/2025/loc/san-diego/132760)\
-    Crucinio F.R., Pathiraja, S.\
-    NeurIPS Workshop on Dynamics at the Frontiers of Optimization, Sampling, and Games, 2025
 * [**A mirror descent approach to maximum likelihood estimation in latent variable models**](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2587614)\
     Crucinio F.R.\
     Journal of Computational and Graphical Statistics, 1–10, 2026
+
+* [**Wasserstein Fisher Rao Gradient Flows: Operator Splitting & Convergence Speed**](https://neurips.cc/virtual/2025/loc/san-diego/132760)\
+    Crucinio F.R., Pathiraja, S.\
+    NeurIPS Workshop on Dynamics at the Frontiers of Optimization, Sampling, and Games, 2025
+    
 * [**Proximal Interacting Particle Langevin Algorithm**](https://proceedings.mlr.press/v286/encinar25a.html)\
     Cordero Encinar P., Crucinio F.R., Akyildiz Ö. D.\
     Uncertainty in Artificial Intelligence (UAI), 2025 (Oral)
