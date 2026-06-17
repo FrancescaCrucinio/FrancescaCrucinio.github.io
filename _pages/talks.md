@@ -6,19 +6,15 @@ author_profile: true
 
 ## Upcoming 
 
-* May 2026, [StaTalk 2026](https://sites.google.com/view/statalk-2026/home?authuser=0),
-Department of Economics, Social Studies, Applied Mathematics and Statistics (ESOMAS), University of Turin
-
-* June 2026 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2026/), MaLGa, University of Genoa
-
-* June 2026 [MCQMC 2026](https://maths.ed.ac.uk/events/mcqmc-2026), University of Edinburgh 
-
 * July 2026 [ISBA 2026](https://isba2026.github.io/), Nagoya, Japan
 
 * July 2026 [IFCS 2026](https://ifcs2026.unimib.it/), University of Milan-Bicocca and University of Milan
 
+* September 2026 [Workshop on Non-Equilibrium Sampling](https://sites.google.com/view/newcastle-non-equilibrium-samp/home), Newcastle University
+
 ## Selected Past Talks
 
+* June 2026 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2026/), MaLGa, University of Genoa, June 2026 [slides](/files/slides_particlemethods_lvm.pdf)
 
 * [MATRIX workshop on Theoretical and Computational Foundations of Sequential Learning](https://www.matrix-inst.org.au/events/theoretical-and-computational-foundations-of-sequential-learning/), Creswick, Australia, November 2025 [slides](/files/slides_sampling_optimisation_rss.pdf)
 
