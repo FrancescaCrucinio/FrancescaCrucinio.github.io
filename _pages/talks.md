@@ -6,10 +6,6 @@ author_profile: true
 
 ## Upcoming 
 
-* July 2026 [ISBA 2026](https://isba2026.github.io/), Nagoya, Japan
-
-* July 2026 [IFCS 2026](https://ifcs2026.unimib.it/), University of Milan-Bicocca and University of Milan
-
 * September 2026 [Workshop on Non-Equilibrium Sampling](https://sites.google.com/view/newcastle-non-equilibrium-samp/home), Newcastle University
 
 ## Selected Past Talks
