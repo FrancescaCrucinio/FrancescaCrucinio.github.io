@@ -8,6 +8,8 @@ author_profile: true
 
 * September 2026 [Workshop on Non-Equilibrium Sampling](https://sites.google.com/view/newcastle-non-equilibrium-samp/home), Newcastle University
 
+* December 2026 [Monte Carlo Methods in Stockholm 2026](https://www.kth.se/mcm-sthlm2026), KTH Royal Institute of Technology
+
 ## Selected Past Talks
 
 * June 2026 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2026/), MaLGa, University of Genoa, June 2026 [slides](/files/slides_particlemethods_lvm.pdf)
