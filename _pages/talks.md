@@ -6,13 +6,13 @@ author_profile: true
 
 ## Upcoming 
 
-* September 2026 [Workshop on Non-Equilibrium Sampling](https://sites.google.com/view/newcastle-non-equilibrium-samp/home), Newcastle University
+* November 2026 [3rd Workshop on Gradient Flows for Sampling, Inference, and Learning](https://gradientflows.com/), Imperial College London
 
 * December 2026 [Monte Carlo Methods in Stockholm 2026](https://www.kth.se/mcm-sthlm2026), KTH Royal Institute of Technology
 
 ## Selected Past Talks
 
-* June 2026 [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2026/), MaLGa, University of Genoa, June 2026 [slides](/files/slides_particlemethods_lvm.pdf)
+* [Machine Learning Crash Course](https://malga.unige.it/education/schools/mlcc2026/), MaLGa, University of Genoa, June 2026 [slides](/files/slides_particlemethods_lvm.pdf)
 
 * [MATRIX workshop on Theoretical and Computational Foundations of Sequential Learning](https://www.matrix-inst.org.au/events/theoretical-and-computational-foundations-of-sequential-learning/), Creswick, Australia, November 2025 [slides](/files/slides_sampling_optimisation_rss.pdf)
 
