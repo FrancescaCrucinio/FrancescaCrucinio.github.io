@@ -12,9 +12,10 @@ A list of projects of some of my former students is available below.
 | Level   | Year & Institution | Candidate              | Title                                       |
 |---------|-------------------------|------------------------|--------------------------------------------------------------------------------------------|
 | UG    | 2025 (KCL)     | Angela Wang       | Monte Carlo Simulation, Importance Sampling, and Importance Resampling |  
+| MSc (QFI)  | 2026 (Unito)     | Mattia Vizzino       | [Adjoint Algorithmic Differentiation for CVA Sensitivities in a Multicurve Framework]() |
 | MSc (QFI)  | 2026 (Unito)     | Sara Lucetti       | [Option Implied Risk Measures and Macroeconomic Credit Stress](https://unitesi.unito.it/handle/20.500.14240/192738) |
 | MSc (QFI)  | 2026 (Unito)     | Sofia Allosia       | [Pricing Catastrophe Bonds for European Flood Risk](https://unitesi.unito.it/handle/20.500.14240/194452) |
-| MSc   | 2026 (Unito & ENSTA)     | Aziz Hathat       |  |
+| MSc   | 2026 (Unito & ENSTA)     | Aziz Hathat       | Unbiased Monte Carlo Estimation of Smooth Functions of Expectations: Coefficient Estimation, Variance Bounds and Optimal Random Truncation |
 | MSc (SDS)   | 2026 (Unito)     | Matteo Tambuscio       | [Sampling Algorithms for Non-Smooth Target Distributions](https://unitesi.unito.it/handle/20.500.14240/188908) |
 | MSc (SDS) | 2026 (Unito)     | Enrico Didoli       | [Detecting Measurable Residual Disease in B-cell Acute Lymphoblastic Leukaemia using Convolutional Neural Networks](https://unitesi.unito.it/handle/20.500.14240/188893) |
 | MSc (SDS)  | 2025 (Unito)     | Paola Leone       | [Comparative Analysis of Particle Swarm Optimization and Consensus-Based Optimization with Polarization Extensions](https://unitesi.unito.it/handle/20.500.14240/176598) |
