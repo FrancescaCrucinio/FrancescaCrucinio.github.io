@@ -7,10 +7,12 @@ author_profile: true
 
 ### Preprints
 
+* [**Preservation of Log-Concavity and Convergence of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2609.18118)\
+    Crucinio F.R., Pathiraja, S.
+* [**Overcoming Model Misspecification in Bayesian Inference of Molecular Signalling Networks**](https://arxiv.org/abs/2609.24590)\
+    Li Y., Kanagawa H., Crucinio F.R., Fisher M.A., Oates  C.J.
 * [**An operator splitting analysis of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2511.18060)\
     Crucinio F.R., Pathiraja, S.
-* [**A note on the unique properties of the Kullback--Leibler divergence for sampling via gradient flows**](https://arxiv.org/abs/2507.04330)\
-    Crucinio F.R.
 * [**Sequential Monte Carlo approximations of Wasserstein--Fisher--Rao gradient flows**](https://arxiv.org/abs/2506.05905)\
     Crucinio F.R., Pathiraja, S.
 
@@ -20,6 +22,10 @@ author_profile: true
 
 (arXiv versions [here](https://arxiv.org/a/crucinio_f_1.html))
 
+* [**A note on the unique properties of the Kullback--Leibler divergence for sampling via gradient flows**](https://arxiv.org/abs/2507.04330)\
+    Crucinio F.R.\\
+    Statistical Science, To appear
+    
 * [**Properties and limitations of geometric tempering for gradient flow dynamics**](https://openreview.net/forum?id=IP0w5LdcxC)\
     Crucinio F.R., Pathiraja, S.\\
     Transactions on Machine Learning Research, 2026
