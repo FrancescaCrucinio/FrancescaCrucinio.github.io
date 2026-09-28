@@ -22,7 +22,7 @@ author_profile: true
 
 (arXiv versions [here](https://arxiv.org/a/crucinio_f_1.html))
 
-* [**A note on the unique properties of the Kullback--Leibler divergence for sampling via gradient flows**](https://arxiv.org/abs/2507.04330)\
+* [**A note on the unique properties of the Kullback--Leibler divergence for sampling via gradient flows**](https://imstat.org/journals-and-publications/statistical-science/statistical-science-future-papers/)\
     Crucinio F.R.\\
     Statistical Science, To appear
     
