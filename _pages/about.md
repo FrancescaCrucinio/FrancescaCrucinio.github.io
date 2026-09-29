@@ -18,6 +18,6 @@ I obtained my PhD in 2021 from the University of Warwick under the supervision o
 
 ## Editorial Responsibilities
 
-Associate Editor for Statistics and Computing (2026 -- ).
+Associate Editor for Statistics and Computing (2026).
 
 **Contact** francescaromana *dot* crucinio *at* unito.it
