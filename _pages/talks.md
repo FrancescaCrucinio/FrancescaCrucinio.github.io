@@ -6,6 +6,8 @@ author_profile: true
 
 ## Upcoming 
 
+* November 2026 [Statistics and Computational Methods Seminar Series](https://dse.unibg.it/it/eventi/statistics-and-computational-methods-seminar-series-francesca-crucinio-university-of-turin), University of Bergamo
+
 * November 2026 [3rd Workshop on Gradient Flows for Sampling, Inference, and Learning](https://gradientflows.com/), Imperial College London
 
 * December 2026 [Monte Carlo Methods in Stockholm 2026](https://www.kth.se/mcm-sthlm2026), KTH Royal Institute of Technology
